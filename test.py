@@ -222,7 +222,7 @@ training_args = Seq2SeqTrainingArguments(
 
     warmup_steps=500,
 
-    max_steps=15000,
+    max_steps=7000,
 
     gradient_checkpointing=True,
 
@@ -236,7 +236,7 @@ training_args = Seq2SeqTrainingArguments(
 
     generation_max_length=225,
 
-    save_steps=500,
+    save_steps=50,
 
     eval_steps=500,
 
