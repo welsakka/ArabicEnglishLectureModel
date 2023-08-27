@@ -3,6 +3,6 @@ A project aimed at accurately transcribing Arabic and English Speech into Englis
 
 The inspiration for this project came for a need to caption Islamic lecturers who often switch between the two languages in their speeches. Audio samples may include Quranic recitation, snippits from online lectures from popular imams. 
 
-Arabic Transliteration to English text follows the Buckwalter Transliteration Scheme: https://corpus.quran.com/java/buckwalter.jsp
+Arabic Transliteration to English text follows the scheme described in Arabic Through the Quran by Alan Jones: https://corpus.quran.com/documentation/phonetic.jsp
 
 Whisper Project: https://github.com/openai/whisper
